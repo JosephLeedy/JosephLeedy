@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Joseph Leedy! 👋🏽
 
-<!--
-**JosephLeedy/JosephLeedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer actively contributing to projects in the Magento and Adobe Commerce ecosystems. My focus is on creating efficient, scalable, and user-friendly solutions.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Expertise
+- **Languages**: PHP, JavaScript, HTML, CSS
+- **Frameworks**: Magento Open Source, Adobe Commerce, Shopware 6
+- **Tools**: Git, Composer, GitHub Actions, PHPStan, PHP_CodeSniffer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Notable Projects
+Here are a few personal projects that I'm proud of:
+- [Magento XML Validator](https://github.com/JosephLeedy/magento-module-xml-validator)
+- [Custom Fees for Magento 2](https://github.com/JosephLeedy/magento2-module-custom-fees)
+- [Custom Fees for Shopware 6](https://github.com/JosephLeedy/shopware6-plugin-custom-fees) (🚧 coming soon!)
+
+You can explore more of my work in my [repository list](https://github.com/JosephLeedy?tab=repositories).
+
+## 🌱 What I'm Learning
+I'm continuously improving my skills in:
+- Advanced Magento customization
+- Automation with GitHub Actions
+- Modern PHP practices
+
+## 📫 How to Reach Me
+- :octocat: [GitHub](https://github.com/JosephLeedy)
+- [LinkedIn](https://linkedin.com/in/JosephLeedy) 
+- ✉️ [E-mail](mailto:joseph@josephleedy.dev)
+
+Feel free to connect and collaborate with me!
+
+## 👨🏽‍💼 Hire Me
+I'm actively looking for my next role! Here's a brief summary of what I am looking for:
+- Remote anywhere in the United States or Canada
+- Full time with a salary of $160,000 or more
+- Senior Magento Developer/Engineer
+
+I prefer to write extensions and integrations. If you have an open position that you think I would be a great fit for, please contact me on LinkedIn or via e-mail. Thank you for your consideration!
+
+I'm also available for contract work building custom extensions and integrations (at least until I find a new permanent role).
+
+---
+
+Thanks for visiting my profile! 🚀
