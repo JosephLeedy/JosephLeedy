@@ -28,16 +28,6 @@ I'm continuously improving my skills in:
 
 Feel free to connect and collaborate with me!
 
-## 👨🏽‍💼 Hire Me
-I'm actively looking for my next role! Here's a brief summary of what I am looking for:
-- Remote anywhere in the United States or Canada
-- Full time with a salary of $160,000 or more
-- Senior Magento Developer/Engineer
-
-I prefer to write extensions and integrations. If you have an open position that you think I would be a great fit for, please contact me on LinkedIn or via e-mail. Thank you for your consideration!
-
-I'm also available for contract work building custom extensions and integrations (at least until I find a new permanent role).
-
 ---
 
 Thanks for visiting my profile! 🚀
